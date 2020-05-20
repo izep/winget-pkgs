@@ -1,0 +1,13 @@
+Id: HashiCorp.Terraform
+Version: 0.12.25
+Name: Terraform
+Publisher: HashiCorp
+License: Copyright (c) HashiCorp
+AppMoniker: terraform
+Description: Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
+Homepage: https://www.terraform.io/
+Installers:
+  - Arch: x64
+    Url: https://releases.hashicorp.com/terraform/0.12.25/terraform_0.12.25_windows_amd64.zip
+    Sha256: 
+    InstallerType: exe
